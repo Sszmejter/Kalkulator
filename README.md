@@ -1,2 +1,2 @@
 # Kalkulator
-demo : https://github.com/Sszmejter/KursWalut.git
+demo : https://sszmejter.github.io/Kalkulator/
